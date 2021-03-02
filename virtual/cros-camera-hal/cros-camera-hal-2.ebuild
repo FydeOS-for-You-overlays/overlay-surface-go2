@@ -11,6 +11,5 @@ SLOT="0"
 KEYWORDS="*"
 
 RDEPEND="
-	media-libs/cros-camera-hal-intel-ipu3
 	media-libs/cros-camera-hal-usb
 "
