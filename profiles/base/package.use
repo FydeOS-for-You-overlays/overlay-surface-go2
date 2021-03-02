@@ -5,4 +5,3 @@ chromeos-base/libchromeos-use-flags highdpi stylus touchview drm_atomic edge_tou
 sys-kernel/linux-firmware-config intel-common
 sys-kernel/linux-fimware savedconfig
 sys-kernel/chromeos-kernel-4_19 -clang -lld
-sys-kernel/chromeos-kernel-5_4 -clang -lld -llvm_ias
